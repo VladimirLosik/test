@@ -1,0 +1,240 @@
+body {
+    font: 80%/1.5 arial, helvetica, sans-serif;
+
+    margin: 0;
+    padding: 0;
+}
+
+code {
+    font: bold 1em courier;
+}
+
+#first {
+    float: center;
+    text-align: center;
+    
+    color: black;
+    background: gainsboro;
+    padding: 1em;
+}
+
+#shopno {
+    margin-top: 20px;
+    margin-left: 7%;
+    width: 45px;
+    float: left;
+    text-align: left;
+    position: absolute;
+
+    border: 3px solid;
+}
+
+#blueO {
+    color:aquamarine;
+}
+
+#sayHello {
+    color:rgb(82, 79, 79);
+    text-shadow: 2px 2px 4px rgb(135, 130, 130);
+    margin-top: 70px;
+    font-size: 1.5em;
+}
+
+#backText {
+    background:aquamarine;
+}
+
+#contactUs {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: smaller;
+
+    border:rgb(74, 73, 73) 2px solid;
+    margin-right: 45%;
+    margin-left: 45%;
+    width: auto;
+    text-align: center;
+}
+
+#jar {
+    position: absolute;
+
+    width: 100;
+    height: 100;
+
+    margin: -3% 8% auto 30%;
+}
+
+#second {
+     height: 20%;
+}
+
+#secondTitle {
+    text-align: center;
+    float: center;
+}
+
+#secondChair {
+    text-align: right;
+    float: left;
+    position: absolute;
+    box-shadow: 0 0 10px rgb(188, 177, 177);
+
+    margin: 4% 0 9% 15%; 
+    width: 30%;
+    height: 30%;
+}
+
+#secondText {
+    text-align: left;
+    font-size: smaller;
+
+    margin: 5% 15% 5% 55%;
+}
+
+#third {
+    background:gainsboro;
+    height: 50em;
+}
+
+#thirdTitle {
+    float: center;
+    text-align: center;
+}
+
+#thirdFt1 {
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin: 5% 1.5% 0 11%;
+}
+
+#thirdFt2 {
+    float: center;
+    width: 25%;
+    height: 25%;
+    margin-top: 5%;
+    margin-right: 1.5%;
+}
+
+#thirdFt3 {
+    float: right;
+    width: 25%;
+    height: 25%;
+    margin: 5% 11% 0 0;
+}
+
+#thirdFt4 {
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin: 1.5% 1.5% 0 11%;
+}
+
+#thirdFt5 {
+    float: center;
+    width: 25%;
+    height: 25%;
+    margin-top: 1.5%;
+    margin-right: 1.5%;
+}
+
+#thirdFt6 {
+    float: right;
+    width: 25%;
+    height: 25%;
+    margin: 1.5% 11% 0 0;
+}
+
+#fourth {
+    float: center;
+    text-align: center;
+    
+    color: black;
+    background: gainsboro;
+}
+
+#fourthTm1 {
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin: 5% 1.5% 0 11%;
+}
+
+#fourthTm2 {
+    float: center;
+    width: 25%;
+    height: 25%;
+    margin-top: 5%;
+    margin-right: 1.5%;
+}
+
+#fourthTm3 {
+    float: right;
+    width: 25%;
+    height: 25%;
+    margin: 5% 11% 0 0;
+}
+
+#fourthTm4 {
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin: 1.5% 1.5% 0 11%;
+}
+
+#fourthTm5 {
+    float: center;
+    width: 25%;
+    height: 25%;
+    margin-top: 1.5%;
+    margin-right: 1.5%;
+}
+
+#fourthTm6 {
+    float: right;
+    width: 25%;
+    height: 25%;
+    margin: 1.5% 11% 0 0;
+}
+
+#fifthLeft {
+    float: left;
+    text-align: left;
+    font-size: smaller;
+
+    color: white;
+    background: rgb(34, 48, 68);
+    
+    margin: 200px 5% 200px 15%;
+    padding: 20px 15px 10px 15px;
+    opacity: 0.8;
+}
+
+#fifthLeftButtom {
+    color: black;
+    background: aquamarine;
+
+    width: 200%;
+}
+
+#fifthRight {
+    float: right;
+    text-align: left;
+
+    color: white;
+    background: rgb(34, 48, 68);
+    
+    margin: 200px 15% 200px 0;
+    padding: 20px 15px 10px 15px;
+    opacity: 0.8;
+}
+#fifthRightMap {
+    padding: 50% 8% 5.5% 8%;
+    opacity: 1;
+}
+
+#sixth {
+    text-align: center;
+
+    margin-top: 100em;
+}
